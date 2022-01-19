@@ -8,7 +8,7 @@ DeepIVUS aims to utilize the power of AI to analyze the VH-IVUS images and predi
 ![]({{site.url}}{{site.baseurl}}/assets/B2F.gif)
  -IVUS images are blurred.
 
-<p style="text-align: center;"> 
+<p align="center" style="text-align: center;"> 
   <font size="-1">
     <a href="https://scholar.google.com/citations?user=59WprqwAAAAJ&hl=en" target="_blank">Google Scholar</a> | 
     <a href="https://www.linkedin.com/in/maziyark/" target="_blank">LinkedIn</a> | 
@@ -17,8 +17,9 @@ DeepIVUS aims to utilize the power of AI to analyze the VH-IVUS images and predi
     <a href="https://github.com/MZYRKE/" target="_blank">GitHub</a>
   </font>
 </p>
-<p style="text-align: center;"> 
+<p align="center" style="text-align: center;"> 
   <font size="-1">
     <a href="https://maziyark.github.io/">Home</a>
   </font>
 </p>
+
